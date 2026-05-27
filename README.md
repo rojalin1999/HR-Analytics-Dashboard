@@ -39,4 +39,4 @@ This dashboard provides insights into:
 ##### Certain job roles have significantly higher attrition rates
 ##### Work-life balance and job satisfaction impact employee retention
 ## 📷 Dashboard Preview
-
+<img width="1224" height="547" alt="Image" src="https://github.com/user-attachments/assets/9dc66ca4-4aad-4878-bc63-8d3254296247" />
