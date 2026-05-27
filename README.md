@@ -26,13 +26,13 @@ This dashboard provides insights into:
 | Average Age         | 37     |
 | Average Monthly Pay | 6503   |
 ## 📈 Dashboard Features
-✅ Interactive slicers
-✅ Dynamic KPI cards
-✅ Department-wise attrition analysis
-✅ Age group & gender insights
-✅ Education field attrition visualization
-✅ Job satisfaction matrix
-✅ Professional dashboard UI design
+##### ✅ Interactive slicers
+##### ✅ Dynamic KPI cards
+##### ✅ Department-wise attrition analysis
+##### ✅ Age group & gender insights
+##### ✅ Education field attrition visualization
+##### ✅ Job satisfaction matrix
+##### ✅ Professional dashboard UI design
 ## 🔍 Business Insights
 ##### Higher attrition observed in the Sales Department
 ##### Employees aged 25–34 show higher turnover
